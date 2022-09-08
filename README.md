@@ -1,2 +1,0 @@
-# MyRepository
-My Project
